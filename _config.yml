@@ -1,0 +1,28 @@
+name: princeoftees
+favicon: null
+layout_spectrum: 0.22520796000026166
+typography_spectrum: 0.6879933353047818
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.4906630702316761
+  lightness: 0.8183007624465972
+  saturation: 0.054054819978773594
+  rhythmicContrast: 0.6858931148890406
+purpose: []
